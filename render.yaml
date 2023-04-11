@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-youtube-slim
+    name: UTA_utaite-yuki
     env: python
     region: Oregon
     plan: free
