@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: UTA_utaite-yuki
+    name: Moyashi
     env: python
     region: Oregon
     plan: free
