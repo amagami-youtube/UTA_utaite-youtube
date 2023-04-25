@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ama0507-mintia-yuki
+    name: ama-yuki
     env: python
     region: Oregon
     plan: free
