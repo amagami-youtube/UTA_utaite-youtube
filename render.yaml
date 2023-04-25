@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ama-yuki
+    name: yoshikunTA
     env: python
     region: Oregon
     plan: free
