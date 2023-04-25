@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: taiger_7517-yuki
+    name: ama0507-mintia-yuki
     env: python
     region: Oregon
     plan: free
