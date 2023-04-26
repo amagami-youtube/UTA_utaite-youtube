@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yoshikunTA
+    name: ama0507-mintia-yuki-1
     env: python
     region: Oregon
     plan: free
