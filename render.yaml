@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: moyashi
+    name: uzuramame
     env: python
     region: Oregon
     plan: free
