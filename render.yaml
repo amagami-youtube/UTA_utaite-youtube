@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: uzuramame
+    name: kusadango
     env: python
     region: Oregon
     plan: free
