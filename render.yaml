@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: kusadango
+    name: UTA-utaite-yuki
     env: python
     region: Oregon
     plan: free
