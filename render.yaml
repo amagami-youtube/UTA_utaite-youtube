@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: UTA-utaite-yuki
+    name: ipad-ifilter
     env: python
     region: Oregon
     plan: free
