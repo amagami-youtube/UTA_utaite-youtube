@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: manon
+    name: marton
     env: python
     region: Oregon
     plan: free
