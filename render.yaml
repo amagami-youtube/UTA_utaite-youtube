@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ipad-ifilter
+    name: kamyuhahuri-sozai
     env: python
     region: Oregon
     plan: free
