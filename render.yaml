@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ゆきゆーちゅーぶ
+    name: yuki-y-slim
     env: python
     region: Oregon
     plan: free
