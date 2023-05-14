@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-y-slim
+    name: sugar-conan
     env: python
     region: Oregon
     plan: free
