@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: uzuramame
+    name: marnon
     env: python
     region: Oregon
     plan: free
