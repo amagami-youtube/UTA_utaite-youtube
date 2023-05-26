@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: kamyuhahuri-sozai
+    name: ama0507-mintia-yuki-3
     env: python
     region: Oregon
     plan: free
