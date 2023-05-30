@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ama0507-mintia-yuki-5
+    name: ama0507-renban
     env: python
     region: Oregon
     plan: free
