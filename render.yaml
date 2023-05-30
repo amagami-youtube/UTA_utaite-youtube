@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ama0507-renban
+    name: keiziban-yukibbs-mintia-ama0507-bbs-yuki-renban-seisei
     env: python
     region: Oregon
     plan: free
