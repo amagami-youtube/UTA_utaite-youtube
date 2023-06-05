@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: keiziban-yukibbs-mintia-ama0507-bbs-yuki-renban-seisei
+    name: arasiteikou
     env: python
     region: Oregon
     plan: free
