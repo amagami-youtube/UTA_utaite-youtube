@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 
+    name: jou-yuki
     env: python
     region: Oregon
     plan: free
